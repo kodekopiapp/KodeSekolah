@@ -1,0 +1,2 @@
+# KodeSekolah
+Management Aplikasi Sekolah
